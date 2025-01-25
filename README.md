@@ -1,6 +1,6 @@
 <h2 align="left">Olá👋, Meu nome é Luiz Fabiano de Souza!<br><br>Sou estudante de Desenvolvimento de Sistemas e Jogos Digitais! 
   <br>
-Desenvolvo Back-End utilizando Java + Springboot e C#, Desenvolvo Jogos na Unity usando C# e tenho noções básicas em JavaScript + React e estou iniciando Desenvolvimento Mobile com Flutter.</h2>
+Desenvolvo Back-End utilizando Java + Springboot e C# + Entity Framework, Desenvolvo Jogos na Unity usando C# e tenho noções básicas em JavaScript + React e estou iniciando Desenvolvimento Mobile com Flutter.</h2>
 
 ###
 
