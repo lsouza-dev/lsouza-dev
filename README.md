@@ -47,9 +47,38 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsouza-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lsouza-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+---
 
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Emissor de Recibos SaaS</h3>
+      <p>Plataforma SaaS multi-tenant para geração de recibos comerciais com busca automática de CNPJ/CEP e gestão de usuários.</p>
+      <p><b>Techs:</b> Angular, Supabase, TypeScript, Tailwind CSS</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">FutBoard</h3>
+      <p>Aplicação web para gestão administrativa e operacional de projeto esportivo social, com templates dinâmicos para WhatsApp.</p>
+      <p><b>Techs:</b> Angular, Supabase, TypeScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Videira App</h3>
+      <p>Sistema corporativo de gestão ministerial e controle de frequência com autenticação JWT e RBAC.</p>
+      <p><b>Techs:</b> Angular, ASP.NET Core, C#</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Senac Pass</h3>
+      <p>Plataforma de gestão de eventos e reservas desenvolvida na CSEP 2025, com logs de auditoria e permissões.</p>
+      <p><b>Techs:</b> React, Express, Node.js</p>
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lsouza-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="Luiz's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsouza-dev&layout=compact&theme=dracula&hide_border=true&hide=html,css" height="150" alt="Most Used Languages" />
+</div>
 <br clear="both">
